@@ -1,2 +1,10 @@
 # Regression_ML
-Reference for the original Dataset: This dataset is a subset of the original dataset used in https://github.com/ngs00/DopNet/tree/main/dataset.
+Reference for the original Dataset: 
+https://www.nature.com/articles/s41524-021-00564-y :DATA
+**Data availability**
+
+The MRL dataset used in the evaluations was manually collected from http://www.mrl.ucsb.edu:8080/datamine/thermoelectric.jsp. The collected MRL dataset is available at https://github.com/ngs00/DopNet.
+
+**Code availability**
+
+The source code of DopNet and the experiment scripts are publicly available at https://github.com/ngs00/DopNet.
