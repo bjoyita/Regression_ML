@@ -10,7 +10,7 @@ The MRL dataset used in the evaluations was manually collected from http://www.m
 
 The source code of DopNet and the experiment scripts are publicly available at https://github.com/ngs00/DopNet.
 
-**Logistic Regression**
+**Logistic & Ordinal Regression**
 
 Hypothetical dataset created. Reference of the code for the same: https://bjoyita.github.io/Tut_dataset.html
 
