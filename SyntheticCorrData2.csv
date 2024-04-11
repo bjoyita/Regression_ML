@@ -1,0 +1,151 @@
+Metal/Alloy Name,Corrosion Rate (mpy),Corrosion Density Current (µA/cm²),Polarization Resistance (ohms),Media,Corrosion Resistance
+"Composite 1 (Al-88%, Mg-29%)",0.295,9.44,2716.87,Sulfide Solution,Fair
+"Composite 2 (Al-64%, Mg-43%)",0.192,9.45,1340.52,Alkaline Solution,Fair
+"Metal 3 (Fe-77%, C-29%)",0.471,8.69,771.24,Acidic Solution,Poor
+"Composite 4 (Al-70%, Mg-39%)",0.487,6.4,9405.91,Seawater,Poor
+"Alloy 5 (Cu-78%, Zn-23%)",0.149,8.03,4172.22,Atmospheric,Excellent
+"Metal 6 (Fe-80%, C-11%)",0.16,6.8,5815.81,Oil & Gas Environment,Fair
+"Composite 7 (Al-73%, Mg-36%)",0.248,5.78,9192.57,Sulfide Solution,Fair
+"Composite 8 (Al-89%, Mg-24%)",0.23,1.37,836.66,Acidic Solution,Fair
+"Metal 9 (Fe-72%, C-22%)",0.497,8.13,8767.85,Acidic Solution,Poor
+"Alloy 10 (Cu-61%, Zn-24%)",0.096,8.22,5520.36,Alkaline Solution,Excellent
+"Composite 11 (Al-93%, Mg-30%)",0.019,6.3,1656.69,Alkaline Solution,Excellent
+"Metal 12 (Fe-75%, C-2%)",0.252,8.22,4118.44,Atmospheric,Fair
+"Composite 13 (Al-70%, Mg-33%)",0.098,6.55,7778.25,Oil & Gas Environment,Excellent
+"Composite 14 (Al-61%, Mg-22%)",0.19,2.15,4808.9,Atmospheric,Fair
+"Alloy 15 (Cu-84%, Zn-27%)",0.375,2.81,9853.01,Seawater,Poor
+"Composite 16 (Al-91%, Mg-28%)",0.363,2.22,3773.62,Seawater,Poor
+"Composite 17 (Al-65%, Mg-15%)",0.161,3.83,7498.29,Atmospheric,Fair
+"Metal 18 (Fe-84%, C-19%)",0.276,0.49,3935.96,Oil & Gas Environment,Fair
+"Composite 19 (Al-93%, Mg-3%)",0.259,6.22,8293.35,Atmospheric,Fair
+"Alloy 20 (Cu-96%, Zn-7%)",0.322,3.43,5695.12,Oil & Gas Environment,Poor
+"Metal 21 (Fe-90%, C-9%)",0.133,6.59,644.48,Oil & Gas Environment,Excellent
+"Composite 22 (Al-88%, Mg-18%)",0.299,3.92,377.85,Sulfide Solution,Fair
+"Composite 23 (Al-53%, Mg-25%)",0.49,6.85,1347.18,Oil & Gas Environment,Poor
+"Metal 24 (Fe-97%, C-14%)",0.249,3.47,146.58,Alkaline Solution,Fair
+"Alloy 25 (Cu-68%, Zn-26%)",0.454,2.68,762.84,Oil & Gas Environment,Poor
+"Composite 26 (Al-51%, Mg-20%)",0.223,5.01,6920.23,Oil & Gas Environment,Fair
+"Metal 27 (Fe-97%, C-15%)",0.182,6.96,5348.12,Oil & Gas Environment,Fair
+"Composite 28 (Al-56%, Mg-44%)",0.326,3.55,7501.61,Seawater,Poor
+"Composite 29 (Al-57%, Mg-47%)",0.338,9.37,9132.53,Alkaline Solution,Poor
+"Alloy 30 (Cu-94%, Zn-14%)",0.433,0.49,5855.64,Alkaline Solution,Poor
+"Composite 31 (Al-66%, Mg-36%)",0.123,4.24,7263.95,Atmospheric,Excellent
+"Composite 32 (Al-89%, Mg-4%)",0.255,9.68,7573.24,Sulfide Solution,Fair
+"Metal 33 (Fe-71%, C-6%)",0.29,5.52,3784.73,Oil & Gas Environment,Fair
+"Composite 34 (Al-91%, Mg-4%)",0.387,4.29,2418.44,Acidic Solution,Poor
+"Alloy 35 (Cu-88%, Zn-18%)",0.031,5.73,2058.4,Sulfide Solution,Excellent
+"Metal 36 (Fe-95%, C-12%)",0.497,5.8,2521.91,Sulfide Solution,Poor
+"Composite 37 (Al-83%, Mg-10%)",0.24,7.34,2754.57,Alkaline Solution,Fair
+"Composite 38 (Al-85%, Mg-14%)",0.147,1.36,2080.2,Sulfide Solution,Excellent
+"Metal 39 (Fe-85%, C-15%)",0.443,2.58,8783.42,Oil & Gas Environment,Poor
+"Alloy 40 (Cu-67%, Zn-14%)",0.376,5.85,7572.42,Oil & Gas Environment,Poor
+"Composite 41 (Al-72%, Mg-40%)",0.477,8.68,478.5,Seawater,Poor
+"Metal 42 (Fe-90%, C-16%)",0.172,5.66,2694.04,Oil & Gas Environment,Fair
+"Composite 43 (Al-94%, Mg-18%)",0.281,2.46,231.63,Oil & Gas Environment,Fair
+"Composite 44 (Al-96%, Mg-24%)",0.29,6.83,4986.67,Alkaline Solution,Fair
+"Alloy 45 (Cu-85%, Zn-25%)",0.49,7.43,4767.34,Oil & Gas Environment,Poor
+"Composite 46 (Al-94%, Mg-41%)",0.047,2.46,8315.4,Seawater,Excellent
+"Composite 47 (Al-78%, Mg-15%)",0.16,3.84,3084.69,Acidic Solution,Fair
+"Metal 48 (Fe-82%, C-1%)",0.104,5.39,8165.69,Alkaline Solution,Excellent
+"Composite 49 (Al-74%, Mg-7%)",0.142,5.02,9680.06,Acidic Solution,Excellent
+"Alloy 50 (Cu-68%, Zn-24%)",0.248,3.96,893.2,Alkaline Solution,Fair
+"Metal 51 (Fe-70%, C-12%)",0.193,3.05,7920.26,Atmospheric,Fair
+"Composite 52 (Al-57%, Mg-24%)",0.203,1.09,5903.66,Sulfide Solution,Fair
+"Composite 53 (Al-60%, Mg-17%)",0.424,0.63,4805.66,Atmospheric,Poor
+"Metal 54 (Fe-77%, C-3%)",0.466,9.59,4211.15,Oil & Gas Environment,Poor
+"Alloy 55 (Cu-94%, Zn-33%)",0.045,8.49,7848.84,Acidic Solution,Excellent
+"Composite 56 (Al-54%, Mg-42%)",0.112,3.61,6397.22,Oil & Gas Environment,Excellent
+"Metal 57 (Fe-76%, C-26%)",0.339,9.57,8052.4,Sulfide Solution,Poor
+"Composite 58 (Al-90%, Mg-28%)",0.186,6.8,9032.48,Alkaline Solution,Fair
+"Composite 59 (Al-56%, Mg-9%)",0.135,4.88,6176.46,Sulfide Solution,Excellent
+"Alloy 60 (Cu-67%, Zn-12%)",0.155,4.98,9804.82,Seawater,Fair
+"Composite 61 (Al-83%, Mg-33%)",0.168,0.92,6084.8,Sulfide Solution,Fair
+"Composite 62 (Al-97%, Mg-23%)",0.426,1.01,6370.08,Seawater,Poor
+"Metal 63 (Fe-93%, C-5%)",0.077,6.06,5552.61,Sulfide Solution,Excellent
+"Composite 64 (Al-84%, Mg-44%)",0.357,5.58,919.11,Seawater,Poor
+"Alloy 65 (Cu-81%, Zn-27%)",0.281,2.21,7266.71,Acidic Solution,Fair
+"Metal 66 (Fe-72%, C-1%)",0.155,9.47,5478.99,Oil & Gas Environment,Fair
+"Composite 67 (Al-84%, Mg-37%)",0.216,7.83,4514.6,Oil & Gas Environment,Fair
+"Composite 68 (Al-96%, Mg-14%)",0.136,1.22,9105.61,Atmospheric,Excellent
+"Metal 69 (Fe-72%, C-1%)",0.31,9.32,2986.61,Oil & Gas Environment,Poor
+"Alloy 70 (Cu-64%, Zn-26%)",0.05,9.75,5240.79,Alkaline Solution,Excellent
+"Composite 71 (Al-63%, Mg-39%)",0.013,9.96,6979.44,Sulfide Solution,Excellent
+"Metal 72 (Fe-96%, C-9%)",0.318,0.65,7966.75,Atmospheric,Poor
+"Composite 73 (Al-64%, Mg-15%)",0.105,7.4,4598.87,Alkaline Solution,Excellent
+"Composite 74 (Al-75%, Mg-42%)",0.045,5.5,8422.49,Alkaline Solution,Excellent
+"Alloy 75 (Cu-72%, Zn-32%)",0.204,7.09,7691.49,Seawater,Fair
+"Composite 76 (Al-88%, Mg-49%)",0.035,9.69,671.7,Oil & Gas Environment,Excellent
+"Composite 77 (Al-81%, Mg-4%)",0.444,6.91,468.15,Acidic Solution,Poor
+"Metal 78 (Fe-74%, C-23%)",0.024,8.39,6211.85,Acidic Solution,Excellent
+"Composite 79 (Al-88%, Mg-45%)",0.294,8.68,3480.66,Atmospheric,Fair
+"Alloy 80 (Cu-74%, Zn-29%)",0.225,8.4,2099.22,Acidic Solution,Fair
+"Metal 81 (Fe-73%, C-13%)",0.339,4.32,5800.7,Sulfide Solution,Poor
+"Composite 82 (Al-81%, Mg-7%)",0.171,2.3,3422.22,Acidic Solution,Fair
+"Composite 83 (Al-71%, Mg-28%)",0.086,4.03,5377.26,Atmospheric,Excellent
+"Metal 84 (Fe-71%, C-10%)",0.491,8.93,4606.59,Acidic Solution,Poor
+"Alloy 85 (Cu-65%, Zn-28%)",0.421,1.55,5851.81,Sulfide Solution,Poor
+"Composite 86 (Al-77%, Mg-44%)",0.432,5.18,4009,Seawater,Poor
+"Metal 87 (Fe-81%, C-20%)",0.133,2.41,6979.7,Atmospheric,Excellent
+"Composite 88 (Al-79%, Mg-11%)",0.029,5.85,1808.87,Seawater,Excellent
+"Composite 89 (Al-77%, Mg-25%)",0.159,8.65,6968.05,Seawater,Fair
+"Alloy 90 (Cu-98%, Zn-33%)",0.273,8.82,4122.5,Seawater,Fair
+"Composite 91 (Al-50%, Mg-27%)",0.17,2.44,8744.43,Alkaline Solution,Fair
+"Composite 92 (Al-62%, Mg-41%)",0.416,9.09,5157.21,Oil & Gas Environment,Poor
+"Metal 93 (Fe-72%, C-7%)",0.143,5.96,9731.37,Alkaline Solution,Excellent
+"Composite 94 (Al-55%, Mg-8%)",0.483,3.57,6023.33,Oil & Gas Environment,Poor
+"Alloy 95 (Cu-86%, Zn-9%)",0.234,7.11,2246.25,Seawater,Fair
+"Metal 96 (Fe-74%, C-1%)",0.423,4.87,8219.69,Atmospheric,Poor
+"Composite 97 (Al-91%, Mg-44%)",0.105,3.84,3457.38,Oil & Gas Environment,Excellent
+"Composite 98 (Al-73%, Mg-15%)",0.212,7.08,3482.72,Sulfide Solution,Fair
+"Metal 99 (Fe-96%, C-22%)",0.353,2.56,327.73,Sulfide Solution,Poor
+"Alloy 100 (Cu-91%, Zn-32%)",0.078,3.37,5491.67,Acidic Solution,Excellent
+"Composite 101 (Al-73%, Mg-41%)",0.075,4.4,5348.89,Oil & Gas Environment,Excellent
+"Metal 102 (Fe-89%, C-17%)",0.485,2.61,3566.35,Atmospheric,Poor
+"Composite 103 (Al-98%, Mg-12%)",0.36,4.11,8943.23,Alkaline Solution,Poor
+"Composite 104 (Al-88%, Mg-2%)",0.03,5.76,1296.2,Seawater,Excellent
+"Alloy 105 (Cu-62%, Zn-37%)",0.205,7.44,3307.69,Acidic Solution,Fair
+"Composite 106 (Al-98%, Mg-17%)",0.222,7.7,3222.61,Sulfide Solution,Fair
+"Composite 107 (Al-98%, Mg-2%)",0.375,8.25,931.98,Alkaline Solution,Poor
+"Metal 108 (Fe-71%, C-28%)",0.133,7.47,4816.64,Alkaline Solution,Excellent
+"Composite 109 (Al-72%, Mg-37%)",0.1,6.84,6880.97,Seawater,Excellent
+"Alloy 110 (Cu-91%, Zn-33%)",0.05,2.45,5121.45,Oil & Gas Environment,Excellent
+"Metal 111 (Fe-70%, C-19%)",0.22,4.06,1578.21,Sulfide Solution,Fair
+"Composite 112 (Al-51%, Mg-44%)",0.347,4.83,3779.09,Atmospheric,Poor
+"Composite 113 (Al-75%, Mg-32%)",0.039,0.92,35.92,Alkaline Solution,Excellent
+"Metal 114 (Fe-75%, C-23%)",0.458,5.33,8684.33,Seawater,Poor
+"Alloy 115 (Cu-63%, Zn-11%)",0.227,4.42,854.32,Atmospheric,Fair
+"Composite 116 (Al-66%, Mg-38%)",0.127,8.04,5976.81,Oil & Gas Environment,Excellent
+"Metal 117 (Fe-93%, C-5%)",0.056,9.78,9862.71,Sulfide Solution,Excellent
+"Composite 118 (Al-83%, Mg-6%)",0.1,5.6,5370.54,Oil & Gas Environment,Excellent
+"Composite 119 (Al-71%, Mg-11%)",0.468,3.29,9241.18,Alkaline Solution,Poor
+"Alloy 120 (Cu-75%, Zn-33%)",0.323,0.53,2368.8,Atmospheric,Poor
+"Composite 121 (Al-58%, Mg-6%)",0.263,9.25,7601.95,Atmospheric,Fair
+"Composite 122 (Al-65%, Mg-29%)",0.332,9.2,5317.34,Atmospheric,Poor
+"Metal 123 (Fe-72%, C-20%)",0.223,2.6,7207.96,Alkaline Solution,Fair
+"Composite 124 (Al-85%, Mg-19%)",0.368,6.98,632.79,Alkaline Solution,Poor
+"Alloy 125 (Cu-85%, Zn-3%)",0.033,0.85,1485.91,Oil & Gas Environment,Excellent
+"Metal 126 (Fe-88%, C-20%)",0.287,1.75,1339.84,Acidic Solution,Fair
+"Composite 127 (Al-81%, Mg-7%)",0.088,2.25,6874.78,Oil & Gas Environment,Excellent
+"Composite 128 (Al-90%, Mg-33%)",0.069,3.02,8445.96,Sulfide Solution,Excellent
+"Metal 129 (Fe-77%, C-7%)",0.178,9.96,7498.67,Seawater,Fair
+"Alloy 130 (Cu-77%, Zn-1%)",0.055,7,314.42,Atmospheric,Excellent
+"Composite 131 (Al-60%, Mg-28%)",0.056,3.9,8673.48,Acidic Solution,Excellent
+"Metal 132 (Fe-94%, C-25%)",0.163,7.4,3547.93,Seawater,Fair
+"Composite 133 (Al-72%, Mg-31%)",0.49,9.16,3977.67,Acidic Solution,Poor
+"Composite 134 (Al-79%, Mg-42%)",0.096,9.59,1057.64,Oil & Gas Environment,Excellent
+"Alloy 135 (Cu-94%, Zn-7%)",0.018,0.67,7376.68,Alkaline Solution,Excellent
+"Composite 136 (Al-65%, Mg-26%)",0.384,4.01,1831.02,Atmospheric,Poor
+"Composite 137 (Al-97%, Mg-49%)",0.405,1.16,5644.01,Oil & Gas Environment,Poor
+"Metal 138 (Fe-71%, C-1%)",0.18,3.42,8408.69,Seawater,Fair
+"Composite 139 (Al-97%, Mg-12%)",0.238,1.78,901.15,Seawater,Fair
+"Alloy 140 (Cu-64%, Zn-37%)",0.328,6.5,5358,Seawater,Poor
+"Metal 141 (Fe-96%, C-23%)",0.034,3.94,2339.83,Seawater,Excellent
+"Composite 142 (Al-58%, Mg-41%)",0.475,2.37,3435.84,Seawater,Poor
+"Composite 143 (Al-84%, Mg-19%)",0.444,2.73,4744.96,Acidic Solution,Poor
+"Metal 144 (Fe-85%, C-16%)",0.138,3.67,3557.49,Oil & Gas Environment,Excellent
+"Alloy 145 (Cu-62%, Zn-20%)",0.017,2.67,6491.74,Atmospheric,Excellent
+"Composite 146 (Al-73%, Mg-33%)",0.467,4.59,4801.03,Alkaline Solution,Poor
+"Metal 147 (Fe-93%, C-20%)",0.256,0.42,5846.15,Alkaline Solution,Fair
+"Composite 148 (Al-60%, Mg-49%)",0.274,2.87,7370.86,Oil & Gas Environment,Fair
+"Composite 149 (Al-57%, Mg-36%)",0.345,4.17,5581.85,Oil & Gas Environment,Poor
+"Alloy 150 (Cu-97%, Zn-20%)",0.312,6.07,5869.49,Alkaline Solution,Poor
